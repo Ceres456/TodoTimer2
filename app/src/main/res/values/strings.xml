@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">오늘의 목표</string>
+    <string name="splash_subtitle">목표 달성 타임 어택</string>
+    <string name="hint_todo">할 일을 입력하세요</string>
+    <string name="label_priority">중요도</string>
+    <string name="label_deadline">마감일</string>
+    <string name="btn_register">목표 등록</string>
+    <string name="label_goals">등록된 목표</string>
+    <string name="title_timer">타이머 수행</string>
+    <string name="title_result">수행 결과</string>
+    <string name="btn_start">시작</string>
+    <string name="btn_stop">중지</string>
+    <string name="btn_complete">완료</string>
+    <string name="label_elapsed">경과 시간</string>
+    <string name="label_progress">진행도</string>
+    <string name="label_memo">수행 내용</string>
+    <string name="hint_memo">수행한 내용을 입력하세요</string>
+    <string name="btn_save">저장 및 종료</string>
+</resources>

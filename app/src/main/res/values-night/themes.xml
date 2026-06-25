@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TodoTimer2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorSurface">@color/color_card</item>
+        <item name="android:colorBackground">@color/color_background</item>
+    </style>
+
+    <style name="Theme.TodoTimer2" parent="Base.Theme.TodoTimer2" />
+
+    <style name="Theme.TodoTimer2.Splash" parent="Base.Theme.TodoTimer2">
+        <item name="android:windowBackground">@color/color_surface_dark</item>
+        <item name="android:statusBarColor">@color/color_surface_dark</item>
+        <item name="android:navigationBarColor">@color/color_surface_dark</item>
+    </style>
+</resources>
